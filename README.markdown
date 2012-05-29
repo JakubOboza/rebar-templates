@@ -23,4 +23,3 @@ this will generate file:
 
 # Author
 Jakub Oboza: <http://no-fucking-idea.com>
-www: <http://no-fucking-idea.com>
