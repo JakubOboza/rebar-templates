@@ -1,0 +1,8 @@
+{variables, [
+  {name, "template"}, 
+  {app_name, "simple_app"},
+  {copyright_year, "2012"},
+  {author_name, "Jakub Oboza"},
+  {author_email, "jakub.oboza@gmail.com"}
+]}.
+{template, "webmachine_resource.erl", "src/{{app_name}}_{{name}}_resource.erl"}.

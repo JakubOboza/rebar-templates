@@ -1,0 +1,7 @@
+{variables, [
+  {name, "template"}, 
+  {copyright_year, "2012"},
+  {author_name, "jakub Oboza"},
+  {author_email, "jakub.oboza@gmail.com"}
+]}.
+{template, "gen_server.erl", "src/{{name}}.erl"}.
