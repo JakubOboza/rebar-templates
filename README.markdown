@@ -22,4 +22,5 @@ this will generate file:
 * template=gen_server  options[name, author_name, author_email, copyright_year]
 
 # Author
-Jakub Oboza: <http://no-fucking-idea.com>§
+Jakub Oboza: <http://no-fucking-idea.com>
+www: <http://no-fucking-idea.com>
